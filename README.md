@@ -5,7 +5,7 @@ This is a hiring test for potential Stukent employees who are interested in work
 ## The Challenge
 The candidate will complete the outlined steps below. For each step there should be at least 1 git commit so that the history of the application can be viewed at each step. If you cannot complete the step, create a commit message for that step and explain where you got stuck and why in the commit message. Then proceed to the next step.
 
-  1. Setup the application and get it working in the development environment on your machine.
+  1. Clone this repository and setup the application to get it working in the development environment on your machine.
   1. Change the database from using sqlite to postgres.
   1. Add 5 ficticious posts using the application.
   1. Add the Spectre (https://picturepan2.github.io/spectre) CSS library to the application and test it to make sure it is working correctly.
